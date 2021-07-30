@@ -1,0 +1,2 @@
+# openwrt-passwall
+yi nai
